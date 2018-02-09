@@ -1,3 +1,3 @@
 FROM alpine
 RUN apk update && apk upgrade && apk add figlet
-CMD figlet -f slant NTT Security && echo even more BOLLOCKS!!!
+CMD figlet -f slant NTT Security && echo I don't get this...
